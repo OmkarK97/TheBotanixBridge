@@ -1,0 +1,8 @@
+botanix:
+  name: botanix
+  chainId: 3636
+  domainId: 3636
+  protocol: ethereum
+  rpcUrls:
+    - http: https://node.botanixlabs.dev
+
